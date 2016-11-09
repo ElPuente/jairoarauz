@@ -1,0 +1,31 @@
+#grupoA {
+     background-color: #d3d3d3;
+}
+
+#titulado {
+    Background-color: #add8e6;
+    color: #ff0000;
+    font-family: Serif;
+    font-size: 30px;
+}
+
+#parrafos {
+     font-size: 14px;
+     font-family: monospace;
+}
+
+.option {
+    font-family: Impact;
+}
+
+#foto {
+    border: 2px solid purple;
+    width: 500px;
+    text-align: center;
+     margin: auto;
+}
+
+#grupoD {
+     text-align: center;
+     margin: auto;
+}

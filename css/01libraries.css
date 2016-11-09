@@ -1,0 +1,55 @@
+/* nypl stylesheet */
+
+
+/* PAGE TITLE */
+.one {
+    text-align: center;
+    font-family: Arial;
+}
+
+#uno {
+    text-align: center;
+}
+
+#dos {
+    font-family: Arial;
+    font-size: 20px;
+}
+
+.two {
+    font-weight: bold;
+}
+
+.three {
+    width: 200px;
+}
+
+#tres {
+    font-family:Arial;
+    font-size:25px;
+}
+
+#cuatro {
+    color: blue;
+}
+
+#cinco {
+    color: Lime;
+}
+
+.class {
+     text-align: center;
+     background-color: orange;
+     color: black;
+     font-family: Arial;
+     font-size: 35px;
+}
+
+#seis {
+    font-family: Arial;
+    font-size: 50px;
+}
+
+#footer {
+    text-align: center;
+}

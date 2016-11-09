@@ -1,0 +1,144 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+    border: 8px solid silver;
+}
+
+/* ******THE NEXT FOUR SELECTORS ARE FOR THE MENU "ul/li/a:'s****** */
+ul {
+    list-style-type: none; /* THIS REMOVES THE BULLETS FROM THE MENU IN CSS */
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    left: 47%; /* TOP POSITION THE MENU TO THE CENTER */
+    margin-left: -200px; /* TOP POSITION THE MENU TO THE CENTER */
+    top: 100px;
+}
+
+li { /*THE HORIZONTAL POSITIONING OF THE MENU OPTION */
+    width: 120px;
+    height: 40px;
+    margin: 0px 4px;
+    float: left;
+}
+
+li a { /* TO ADJUST THE STYLING ON THE MENU OPTIONS */
+    display: block;
+    font-family: 'Athiti', sans-serif;
+    color: #7a991a;
+    background-color: black;
+    width: 120px;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    height: 40px;
+    line-height: 40px;
+    font-size: 18px;
+}
+
+/* ******BELOW ARE THE CODES FOR MY NAME OVER THE PICTURE****** */
+.one {
+    color: #7a991a;
+    text-align: center;
+    font-family: 'Paytone One', sans-serif;
+    font-size: 153px;
+    top: 414px;
+    position: relative;
+    opacity: .90;
+}
+
+.two { /* THE BELOW SELECTOR IS FOR THE POSITIONING OF MY PICTURE */
+    text-align: center;
+    top: 150px;
+}
+
+#uno { /* THE BELOW SELECTOR IS FOR MY PICTURE */
+    border: 8px solid silver;
+    width: 430px;
+    opacity: .60;
+}
+
+/* *******STYLING MY ABOUT ME INFORMATION******* */
+.three { /* THE POSITIONING OF ABOUT ME */
+    width: 900px;
+    margin: auto;
+}
+
+#tres { /* STYLING MY PARAGRAPHS */
+    text-align: Center; 
+    color: #c0c0c0;
+    font-family: 'Athiti', sans-serif;
+    font-size: 19px;
+}
+
+.four { /* STYLING THE LINKS INSIDE MY PARAGRAPHS */
+    color: #c0c0c0;
+    text-decoration:none;
+}
+
+span.five { /* STYLING THE NAMES ATTACHED TO THE LINKS IN THE PARAGRAPHS */
+    font-family: 'Athiti', sans-serif;
+    font-size: 19px;
+}
+
+#dos { /* STYLING THE TITLE OF EACH SECTION IN MY PAGE */
+    text-align: center;
+    color: #7a991a;
+    font-family: 'Athiti', sans-serif;
+    font-size: 20px;
+}
+
+.six {
+    text-align: center; 
+    border: 8px solid silver;
+    width: 600px;
+    margin: auto;
+}
+.seven {
+    width: 500px;
+}
+
+.eight {
+     width:400px;
+}
+
+.nine {
+    text-align: center;
+    color: #c0c0c0;
+    font-family: Impact;
+    font-size: 20px;
+}
+
+#cinco {
+     text-decoration:none;
+}
+
+#seis {
+    color: #c0c0c0;
+    font-family: 'Athiti', sans-serif;
+}
+
+#id {
+    position: relative;
+    left: 400px;
+    top: 100px;
+}
+
+.bottom {
+    text-align: center;
+    color: #c0c0c0;
+    font-family: 'Athiti', sans-serif;
+    font-size: 20px;
+}
+
+#bottomfooter {
+    text-align: center;
+    color: #7a991a;
+    font-family: 'Athiti', sans-serif;
+    font-size: 20px;
+}

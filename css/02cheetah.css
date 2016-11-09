@@ -1,0 +1,64 @@
+#title {
+     text-align: center;
+     background-color: black;
+     color: yellow;
+     font-family: Arial;
+     font-size: 90px;
+}
+
+#yellow {
+     text-align:center;
+     font-family: Arial;
+     font-size: 20px;
+     background-color:yellow;
+     width: 38%;
+     margin: auto;
+}
+
+#red {
+     text-align: center;
+     background-color: red;
+     color: white;
+     font-family: Arial;
+     font-size: 20px;
+     width: 38%;
+     margin: auto;
+}
+
+#head3 {
+    font-size: 40px;
+}
+
+#pictures {
+     text-align: center;
+     background-color: black;
+     width: 38%;
+     margin: auto; 
+}
+
+#pictures {
+    text-align: center;
+}
+
+.photos {
+    width: 600px;
+    text-align: center;
+}
+
+#footer {
+     text-align: center;
+     background-color: orange;
+     color: black;
+     font-family: Arial;
+     font-size: 35px;
+}
+
+#paragraphsbottom {
+    font-family: Arial;
+    font-size: 50px;
+}
+
+#options {
+     text-align: center;
+     margin: auto;
+}

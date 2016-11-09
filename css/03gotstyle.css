@@ -1,0 +1,66 @@
+#group1 {
+    background-color: gray;
+}
+
+#head1 {
+     text-align: center;
+     color: red;
+     font-family: cursive;
+}
+
+.sentences {
+    background-color: lightgrey;
+    font-family: monospace;
+    font-size: 16px;
+}
+
+#informacion {
+     color:yellowgreen;
+     text-decoration: none;
+     font-size: 20px;
+     text-align: center;
+}
+
+#group2 {
+     background-color: black;
+     font-size: 24px;
+     color: white;
+}
+
+.opciones {
+    color: red;
+    font-size: 18px;
+}
+
+#nombre {
+    background-color: red;
+    font-size: 24px;
+}
+
+#primernombre {
+    color: red;
+    font-size: 18px;
+    text-align: center;
+}
+
+#apellido {
+    color: red;
+    font-size: 18px;
+    text-align: center;
+}
+
+#group3 {
+     text-align: center;
+     margin: auto;
+}
+
+.atras {
+     text-decoration:none;
+     color:black;
+}
+
+.frente {
+    text-decoration:none;
+    font-family: Verdana;
+    color:black;
+}
